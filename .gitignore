@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+doc_pipeline.db
+.DS_Store
