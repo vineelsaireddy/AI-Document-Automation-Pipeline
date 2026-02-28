@@ -1,0 +1,19 @@
+INVOICE
+-----------------
+Vendor: Global Tech Services Inc.
+Invoice Number: INV-2026-8942
+Date: June 10, 2026
+Due Date: July 10, 2026
+
+Billed To:
+Rentomojo Technologies
+123 Tech Park, Bangalore
+
+Line Items:
+1. Cloud Server Hosting (May 2026) - $1,250.00
+2. Database Backups - $150.00
+3. AI API Usage (Enterprise Tier) - $4,580.00
+
+Total Amount: $5,980.00
+Payment Terms: Net 30
+Please remit payment to account ending in 4492.

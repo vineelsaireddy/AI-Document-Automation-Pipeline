@@ -1,0 +1,19 @@
+QUARTERLY ANALYSIS REPORT
+-------------------------
+Department: Operations
+Author: Vineel Sai Reddy
+Date: June 12, 2026
+Title: Automation Opportunities in Customer Onboarding
+
+Executive Summary:
+This report highlights key areas where the customer onboarding pipeline can be optimized using Generative AI and automated workflows.
+
+Key Findings:
+- Manual document verification takes an average of 4.5 minutes per customer.
+- Implementation of LLM-based structured extraction could reduce this time to under 15 seconds.
+- Support tickets related to missed onboarding steps have increased by 12% in Q2.
+
+Recommendations:
+1. Integrate LangGraph-based verification pipelines immediately.
+2. Automate webhook triggers from the CRM to our processing endpoints.
+3. Replace the legacy regex parser with prompt-engineered LLM calls for ID extraction.
